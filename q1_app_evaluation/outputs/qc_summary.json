@@ -1,0 +1,48 @@
+{
+  "actual_total_rows": 945,
+  "all_original_fields_preserved": true,
+  "app_type_counts": {
+    "companion": 513,
+    "general_purpose": 157,
+    "mixed": 14,
+    "other": 261
+  },
+  "audit_exists": true,
+  "confidence_counts": {
+    "high": 30,
+    "low": 508,
+    "medium": 407
+  },
+  "csv_exists": true,
+  "evidence_log_exists": true,
+  "expected_total_rows": 945,
+  "login_required_counts": {
+    "False": 21,
+    "True": 32,
+    "unknown": 892
+  },
+  "low_confidence_count": 508,
+  "manual_review_count": 927,
+  "manual_review_exists": true,
+  "missing_original_fields": [],
+  "qc_summary_exists": true,
+  "row_count_matches_expected": true,
+  "source_platform_counts": {
+    "android": 492,
+    "ios": 453
+  },
+  "subscription_required_counts": {
+    "False": 182,
+    "True": 363,
+    "unknown": 400
+  },
+  "valid_app_type_values": true,
+  "valid_confidence_values": true,
+  "valid_login_required_values": true,
+  "valid_web_accessible_values": true,
+  "web_accessible_counts": {
+    "False": 38,
+    "True": 48,
+    "unknown": 859
+  }
+}

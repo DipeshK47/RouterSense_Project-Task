@@ -1,0 +1,59 @@
+[2026-04-18 05:23:35] Starting Q1 app evaluation pipeline.
+[2026-04-18 05:23:35] iOS input: /Users/dipeshkumar/Desktop/trex/q1_app_evaluation/data/app_store_apps_details.json
+[2026-04-18 05:23:35] Android input: /Users/dipeshkumar/Desktop/trex/q1_app_evaluation/data/google_play_apps_details.json
+[2026-04-18 05:23:35] Output directory: /Users/dipeshkumar/Desktop/trex/q1_app_evaluation/outputs
+[2026-04-18 05:23:35] Runtime options: {"max_web_checks": 100, "skip_web": false, "web_timeout": 10}
+[2026-04-18 05:23:35] Stage 1/7: loading source files
+[2026-04-18 05:23:35] Stage 1/7 completed in 0.06s
+[2026-04-18 05:23:35] Loaded source rows: ios=453, android=492, total=945
+[2026-04-18 05:23:35] Stage 2/7: normalizing rows and aligning schemas
+[2026-04-18 05:23:35] Stage 2/7 completed in 0.01s
+[2026-04-18 05:23:35] Normalized 945 rows into a unified table.
+[2026-04-18 05:23:35] Original source fields preserved for QC: 69
+[2026-04-18 05:23:35] Stage 3/7: classifying app types
+[2026-04-18 05:23:35] classification: processed 100/945 rows
+[2026-04-18 05:23:36] classification: processed 200/945 rows
+[2026-04-18 05:23:36] classification: processed 300/945 rows
+[2026-04-18 05:23:36] classification: processed 400/945 rows
+[2026-04-18 05:23:36] classification: processed 500/945 rows
+[2026-04-18 05:23:36] classification: processed 600/945 rows
+[2026-04-18 05:23:37] classification: processed 700/945 rows
+[2026-04-18 05:23:37] classification: processed 800/945 rows
+[2026-04-18 05:23:37] classification: processed 900/945 rows
+[2026-04-18 05:23:37] classification: processed 945/945 rows
+[2026-04-18 05:23:37] Stage 3/7 completed in 2.18s
+[2026-04-18 05:23:37] app_type counts after classification: companion=513, general_purpose=157, mixed=14, other=261
+[2026-04-18 05:23:37] Stage 4/7: deriving metadata-based evaluation fields
+[2026-04-18 05:23:38] metadata evaluation: processed 100/945 rows
+[2026-04-18 05:23:38] metadata evaluation: processed 200/945 rows
+[2026-04-18 05:23:38] metadata evaluation: processed 300/945 rows
+[2026-04-18 05:23:38] metadata evaluation: processed 400/945 rows
+[2026-04-18 05:23:39] metadata evaluation: processed 500/945 rows
+[2026-04-18 05:23:39] metadata evaluation: processed 600/945 rows
+[2026-04-18 05:23:39] metadata evaluation: processed 700/945 rows
+[2026-04-18 05:23:40] metadata evaluation: processed 800/945 rows
+[2026-04-18 05:23:40] metadata evaluation: processed 900/945 rows
+[2026-04-18 05:23:40] metadata evaluation: processed 945/945 rows
+[2026-04-18 05:23:40] Stage 4/7 completed in 2.86s
+[2026-04-18 05:23:40] login_required snapshot: False=23, True=12, unknown=910
+[2026-04-18 05:23:40] subscription_required_for_long_chat snapshot: False=182, True=363, unknown=400
+[2026-04-18 05:23:40] Stage 5/7: running optional web checks with max_web_checks=100 and timeout=10s
+[2026-04-18 05:24:42] Stage 5/7 completed in 61.80s
+[2026-04-18 05:24:42] web check result statuses: login_page=6, marketing_only=38, override=21, pricing_page=2, unavailable=5, unknown=28, web_chat_possible=21
+[2026-04-18 05:24:42] Stage 6/7: writing output artifacts
+[2026-04-18 05:24:42] Writing final CSV to /Users/dipeshkumar/Desktop/trex/q1_app_evaluation/outputs/ai_companion_app_evaluation.csv
+[2026-04-18 05:24:42] Writing evidence log to /Users/dipeshkumar/Desktop/trex/q1_app_evaluation/outputs/evidence_log.csv
+[2026-04-18 05:24:42] Writing manual review candidates to /Users/dipeshkumar/Desktop/trex/q1_app_evaluation/outputs/manual_review_candidates.csv
+[2026-04-18 05:24:42] Writing audit report to /Users/dipeshkumar/Desktop/trex/q1_app_evaluation/outputs/evaluation_audit.md
+[2026-04-18 05:24:42] Stage 6/7 completed in 0.44s
+[2026-04-18 05:24:42] Stage 7/7: running quality control checks
+[2026-04-18 05:24:42] Stage 7/7 completed in 0.00s
+[2026-04-18 05:24:42] Q1 pipeline complete.
+[2026-04-18 05:24:42] Total rows written: 945
+[2026-04-18 05:24:42] App type counts: {'companion': 513, 'general_purpose': 157, 'other': 261, 'mixed': 14}
+[2026-04-18 05:24:42] Web accessibility counts: {'True': 48, 'False': 38, 'unknown': 859}
+[2026-04-18 05:24:42] Manual review count: 927
+[2026-04-18 05:24:42] Low-confidence rows: 508
+[2026-04-18 05:24:42] QC summary file: /Users/dipeshkumar/Desktop/trex/q1_app_evaluation/outputs/qc_summary.json
+[2026-04-18 05:24:42] Run log: /Users/dipeshkumar/Desktop/trex/q1_app_evaluation/outputs/run_log.txt
+[2026-04-18 05:24:42] End-to-end runtime: 67.40s

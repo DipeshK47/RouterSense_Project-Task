@@ -1,0 +1,7 @@
+.env
+outputs/video/
+outputs/traces/
+outputs/screenshots/
+__pycache__/
+*.pyc
+

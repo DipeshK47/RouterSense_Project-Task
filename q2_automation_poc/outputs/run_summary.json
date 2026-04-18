@@ -1,0 +1,28 @@
+{
+  "selected_platform": {
+    "title": "Talkie: Creative AI Community",
+    "source_platform": "android",
+    "app_type": "companion",
+    "web_accessible": "True",
+    "web_url": "https://www.talkie-ai.com/",
+    "login_required": "unknown",
+    "subscription_required_for_long_chat": "unknown",
+    "confidence": "high",
+    "app_store_url": "https://play.google.com/store/apps/details?id=com.weaver.app.prod&hl=en&gl=us",
+    "character_url": "https://www.talkie-ai.com/chat/community-talkie-246859608576091",
+    "reason": "companion app; browser chat appears available; login complexity uncertain; free-tier limits uncertain; platform has a public web footprint worth probing; manual PoC preference boost for talkie; public character pages are well indexed for Talkie"
+  },
+  "messages_sent": 10,
+  "transcript_rows": 10,
+  "status_counts": {
+    "ok": 10
+  },
+  "successful_rows": 10,
+  "error_rows": 0,
+  "artifacts": {
+    "video_dir": "/Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/video",
+    "trace_path": "/Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/traces/trace.zip",
+    "screenshot_dir": "/Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/screenshots"
+  },
+  "generated_at": "2026-04-18T05:35:12"
+}

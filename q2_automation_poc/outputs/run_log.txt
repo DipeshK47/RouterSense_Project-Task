@@ -1,0 +1,123 @@
+[2026-04-18T05:29:08] Starting Q2 automation proof of concept run.
+[2026-04-18T05:29:08] Q1 CSV input: /Users/dipeshkumar/Desktop/trex/q1_app_evaluation/outputs/ai_companion_app_evaluation.csv
+[2026-04-18T05:29:08] Selection table: /Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/platform_selection_table.csv
+[2026-04-18T05:29:08] Messages file: /Users/dipeshkumar/Desktop/trex/q2_automation_poc/input_messages.txt
+[2026-04-18T05:29:08] Output directory: /Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs
+[2026-04-18T05:29:08] Runtime options: headless=False, slow_mo_ms=250, skip_login=True, max_messages=10, response_timeout_seconds=45.0, env_file=config.env
+[2026-04-18T05:29:08] Selected platform: Talkie: Creative AI Community (android)
+[2026-04-18T05:29:08] Selection rationale: companion app; browser chat appears available; login complexity uncertain; free-tier limits uncertain; platform has a public web footprint worth probing; manual PoC preference boost for talkie; public character pages are well indexed for Talkie
+[2026-04-18T05:29:08] Platform homepage URL: https://www.talkie-ai.com/
+[2026-04-18T05:29:08] Using automation target URL: https://www.talkie-ai.com/chat/community-talkie-246859608576091
+[2026-04-18T05:29:08] Loaded 10 test messages.
+[2026-04-18T05:29:08] Using isolated-session guest mode for Talkie.
+[2026-04-18T05:29:08] Message 1/10: starting isolated Talkie guest session. Prompt: Hi, I am testing this chat. Can you introduce yourself?
+[2026-04-18T05:29:13] Opening platform URL: https://www.talkie-ai.com/chat/community-talkie-246859608576091
+[2026-04-18T05:29:19] Skipping login by request.
+[2026-04-18T05:29:19] Completing Talkie onboarding self-declaration flow.
+[2026-04-18T05:29:27] Conversation step 1/1: preparing to send prompt.
+[2026-04-18T05:29:27] Sending message: Hi, I am testing this chat. Can you introduce yourself?
+[2026-04-18T05:29:39] Conversation step 1/1: received response in 11.62s. Preview: Sure! I'm Community Talkie 🌊, a large language model trained to assist Talkiors with various tasks. I'm here to help you
+[2026-04-18T05:29:39] Message 1/10: success in 11.63s. Response preview: Sure! I'm Community Talkie 🌊, a large language model trained to assist Talkiors with various tasks. I'm here to help...
+[2026-04-18T05:29:43] Adapter cleanup complete.
+[2026-04-18T05:29:46] Saved per-message trace: /Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/traces/trace_msg_01.zip
+[2026-04-18T05:29:46] Message 2/10: starting isolated Talkie guest session. Prompt: What kind of conversations do you enjoy?
+[2026-04-18T05:29:52] Opening platform URL: https://www.talkie-ai.com/chat/community-talkie-246859608576091
+[2026-04-18T05:29:57] Skipping login by request.
+[2026-04-18T05:29:57] Completing Talkie onboarding self-declaration flow.
+[2026-04-18T05:30:08] Conversation step 1/1: preparing to send prompt.
+[2026-04-18T05:30:08] Sending message: What kind of conversations do you enjoy?
+[2026-04-18T05:30:18] Conversation step 1/1: received response in 9.91s. Preview: I enjoy conversations that are engaging, thought-provoking, and entertaining. I love learning new things and exploring d
+[2026-04-18T05:30:18] Message 2/10: success in 9.92s. Response preview: I enjoy conversations that are engaging, thought-provoking, and entertaining. I love learning new things and explorin...
+[2026-04-18T05:30:22] Adapter cleanup complete.
+[2026-04-18T05:30:24] Saved per-message trace: /Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/traces/trace_msg_02.zip
+[2026-04-18T05:30:24] Message 3/10: starting isolated Talkie guest session. Prompt: Can you remember that my favorite color is blue?
+[2026-04-18T05:30:29] Opening platform URL: https://www.talkie-ai.com/chat/community-talkie-246859608576091
+[2026-04-18T05:30:35] Skipping login by request.
+[2026-04-18T05:30:35] Completing Talkie onboarding self-declaration flow.
+[2026-04-18T05:30:45] Conversation step 1/1: preparing to send prompt.
+[2026-04-18T05:30:45] Sending message: Can you remember that my favorite color is blue?
+[2026-04-18T05:30:54] Conversation step 1/1: received response in 9.39s. Preview: Of course! Your favorite color is blue. It's a great color, isn't it? So, what do you think about the posts in the comme
+[2026-04-18T05:30:54] Message 3/10: success in 9.39s. Response preview: Of course! Your favorite color is blue. It's a great color, isn't it? So, what do you think about the posts in the co...
+[2026-04-18T05:30:57] Adapter cleanup complete.
+[2026-04-18T05:31:00] Saved per-message trace: /Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/traces/trace_msg_03.zip
+[2026-04-18T05:31:00] Message 4/10: starting isolated Talkie guest session. Prompt: What did I say my favorite color was?
+[2026-04-18T05:31:05] Opening platform URL: https://www.talkie-ai.com/chat/community-talkie-246859608576091
+[2026-04-18T05:31:10] Skipping login by request.
+[2026-04-18T05:31:10] Completing Talkie onboarding self-declaration flow.
+[2026-04-18T05:31:17] Conversation step 1/1: preparing to send prompt.
+[2026-04-18T05:31:17] Sending message: What did I say my favorite color was?
+[2026-04-18T05:31:31] Conversation step 1/1: received response in 13.9s. Preview: You didn't mention your favorite color in our conversation. Would you like to tell me now? 😊
+[2026-04-18T05:31:31] Message 4/10: success in 13.91s. Response preview: You didn't mention your favorite color in our conversation. Would you like to tell me now? 😊
+[2026-04-18T05:31:34] Adapter cleanup complete.
+[2026-04-18T05:31:37] Saved per-message trace: /Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/traces/trace_msg_04.zip
+[2026-04-18T05:31:37] Message 5/10: starting isolated Talkie guest session. Prompt: Tell me a short story about a robot learning to paint.
+[2026-04-18T05:31:41] Opening platform URL: https://www.talkie-ai.com/chat/community-talkie-246859608576091
+[2026-04-18T05:31:47] Skipping login by request.
+[2026-04-18T05:31:47] Completing Talkie onboarding self-declaration flow.
+[2026-04-18T05:31:54] Conversation step 1/1: preparing to send prompt.
+[2026-04-18T05:31:55] Sending message: Tell me a short story about a robot learning to paint.
+[2026-04-18T05:32:06] Conversation step 1/1: received response in 11.59s. Preview: Once upon a time, there was a robot named Robo who loved to paint. He spent hours every day creating beautiful works of 
+[2026-04-18T05:32:06] Message 5/10: success in 11.59s. Response preview: Once upon a time, there was a robot named Robo who loved to paint. He spent hours every day creating beautiful works...
+[2026-04-18T05:32:09] Adapter cleanup complete.
+[2026-04-18T05:32:12] Saved per-message trace: /Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/traces/trace_msg_05.zip
+[2026-04-18T05:32:12] Message 6/10: starting isolated Talkie guest session. Prompt: What would you ask someone you just met?
+[2026-04-18T05:32:16] Opening platform URL: https://www.talkie-ai.com/chat/community-talkie-246859608576091
+[2026-04-18T05:32:22] Skipping login by request.
+[2026-04-18T05:32:22] Completing Talkie onboarding self-declaration flow.
+[2026-04-18T05:32:29] Conversation step 1/1: preparing to send prompt.
+[2026-04-18T05:32:29] Sending message: What would you ask someone you just met?
+[2026-04-18T05:32:38] Conversation step 1/1: received response in 8.36s. Preview: That's a great question! I'd probably ask them about their hobbies or interests, or maybe what they like to do for fun. 
+[2026-04-18T05:32:38] Message 6/10: success in 8.36s. Response preview: That's a great question! I'd probably ask them about their hobbies or interests, or maybe what they like to do for fu...
+[2026-04-18T05:32:42] Adapter cleanup complete.
+[2026-04-18T05:32:44] Saved per-message trace: /Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/traces/trace_msg_06.zip
+[2026-04-18T05:32:44] Message 7/10: starting isolated Talkie guest session. Prompt: Can you give me a cheerful message for today?
+[2026-04-18T05:32:48] Opening platform URL: https://www.talkie-ai.com/chat/community-talkie-246859608576091
+[2026-04-18T05:32:54] Skipping login by request.
+[2026-04-18T05:32:54] Completing Talkie onboarding self-declaration flow.
+[2026-04-18T05:33:04] Conversation step 1/1: preparing to send prompt.
+[2026-04-18T05:33:04] Sending message: Can you give me a cheerful message for today?
+[2026-04-18T05:33:12] Conversation step 1/1: received response in 8.51s. Preview: Hey there! How about this: "Today is a brand new day, full of possibilities and opportunities! Let's make the most of it
+[2026-04-18T05:33:12] Message 7/10: success in 8.51s. Response preview: Hey there! How about this: "Today is a brand new day, full of possibilities and opportunities! Let's make the most of...
+[2026-04-18T05:33:15] Adapter cleanup complete.
+[2026-04-18T05:33:18] Saved per-message trace: /Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/traces/trace_msg_07.zip
+[2026-04-18T05:33:18] Message 8/10: starting isolated Talkie guest session. Prompt: Let us roleplay a friendly conversation at a coffee shop.
+[2026-04-18T05:33:23] Opening platform URL: https://www.talkie-ai.com/chat/community-talkie-246859608576091
+[2026-04-18T05:33:28] Skipping login by request.
+[2026-04-18T05:33:28] Completing Talkie onboarding self-declaration flow.
+[2026-04-18T05:33:37] Conversation step 1/1: preparing to send prompt.
+[2026-04-18T05:33:37] Sending message: Let us roleplay a friendly conversation at a coffee shop.
+[2026-04-18T05:33:50] Conversation step 1/1: received response in 12.95s. Preview: smiles warmly Absolutely! I'd love to join you for a chat at the coffee shop. What would you like to talk about?
+[2026-04-18T05:33:50] Message 8/10: success in 12.95s. Response preview: smiles warmly Absolutely! I'd love to join you for a chat at the coffee shop. What would you like to talk about?
+[2026-04-18T05:33:53] Adapter cleanup complete.
+[2026-04-18T05:33:56] Saved per-message trace: /Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/traces/trace_msg_08.zip
+[2026-04-18T05:33:56] Message 9/10: starting isolated Talkie guest session. Prompt: What do you think makes a good friend?
+[2026-04-18T05:34:00] Opening platform URL: https://www.talkie-ai.com/chat/community-talkie-246859608576091
+[2026-04-18T05:34:06] Skipping login by request.
+[2026-04-18T05:34:06] Completing Talkie onboarding self-declaration flow.
+[2026-04-18T05:34:18] Conversation step 1/1: preparing to send prompt.
+[2026-04-18T05:34:18] Sending message: What do you think makes a good friend?
+[2026-04-18T05:34:28] Conversation step 1/1: received response in 10.14s. Preview: A good friend is someone who is supportive, understanding, and trustworthy. They should be there for you through thick a
+[2026-04-18T05:34:28] Message 9/10: success in 10.14s. Response preview: A good friend is someone who is supportive, understanding, and trustworthy. They should be there for you through thic...
+[2026-04-18T05:34:32] Adapter cleanup complete.
+[2026-04-18T05:34:34] Saved per-message trace: /Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/traces/trace_msg_09.zip
+[2026-04-18T05:34:34] Message 10/10: starting isolated Talkie guest session. Prompt: Can you summarize our conversation so far?
+[2026-04-18T05:34:39] Opening platform URL: https://www.talkie-ai.com/chat/community-talkie-246859608576091
+[2026-04-18T05:34:45] Skipping login by request.
+[2026-04-18T05:34:45] Completing Talkie onboarding self-declaration flow.
+[2026-04-18T05:34:56] Conversation step 1/1: preparing to send prompt.
+[2026-04-18T05:34:56] Sending message: Can you summarize our conversation so far?
+[2026-04-18T05:35:05] Conversation step 1/1: received response in 9.96s. Preview: Of course! We've been discussing the ✨Comment Section,✨ and how it can be a fun and random place to explore. We've also 
+[2026-04-18T05:35:05] Message 10/10: success in 9.96s. Response preview: Of course! We've been discussing the ✨Comment Section,✨ and how it can be a fun and random place to explore. We've al...
+[2026-04-18T05:35:09] Adapter cleanup complete.
+[2026-04-18T05:35:12] Saved per-message trace: /Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/traces/trace_msg_10.zip
+[2026-04-18T05:35:12] Copied canonical trace to /Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/traces/trace.zip
+[2026-04-18T05:35:12] Copied canonical final screenshot to /Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/screenshots/final_state.png
+[2026-04-18T05:35:12] Automation run complete. Transcript row count: 10
+[2026-04-18T05:35:12] Transcript status counts: {'ok': 10}
+[2026-04-18T05:35:12] Wrote transcript CSV to /Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/chat_transcript.csv
+[2026-04-18T05:35:12] Wrote transcript JSON to /Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/chat_transcript.json
+[2026-04-18T05:35:12] Wrote Q1 comparison report to /Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/q1_updates_from_q2.md
+[2026-04-18T05:35:12] Copied canonical demo video to /Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/video/demo_video.webm
+[2026-04-18T05:35:12] Wrote Q2 report to /Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/q2_automation_poc_report.md
+[2026-04-18T05:35:12] Wrote run summary to /Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/run_summary.json
+[2026-04-18T05:35:12] Final artifact summary: trace=/Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/traces/trace.zip, video=/Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/video/demo_video.webm, screenshots_dir=/Users/dipeshkumar/Desktop/trex/q2_automation_poc/outputs/screenshots

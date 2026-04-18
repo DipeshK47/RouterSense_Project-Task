@@ -1,0 +1,528 @@
+title,source_platform,app_type,web_accessible,web_url,login_required,subscription_required_for_long_chat,confidence,chosen_candidate,reason_for_choice_or_rejection
+Talkie: Creative AI Community,android,companion,True,https://www.talkie-ai.com/,unknown,unknown,high,True,companion app; browser chat appears available; login complexity uncertain; free-tier limits uncertain; platform has a public web footprint worth probing; manual PoC preference boost for talkie; public character pages are well indexed for Talkie
+2Soul: 3D AI Companion Chat,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+AI BF - Virtual Boyfriend Chat,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Boyfriend,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Boyfriend - LuvBae,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Boyfriend Anime Wonn,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Boyfriend Chat - DreamWeave,ios,companion,False,,unknown,False,medium,False,companion app; no browser chat confirmed; login complexity uncertain; free tier appears sufficient for a short demo
+AI Boyfriend Chat - Husby,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Boyfriend Chat - Imate,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+AI Boyfriend Chat Companion,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Boyfriend Chat: iBoy,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+AI Boyfriend: BF Chat App 18+,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Boyfriend: Companion & Love,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+AI Boyfriend: Floze AI Chat,ios,companion,False,,unknown,unknown,medium,False,companion app; no browser chat confirmed; login complexity uncertain; free-tier limits uncertain
+AI Boyfriend: Roleplay Chat,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Boyfriend: Truth or Dare+,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Boyfriend:Love Chat Partner,ios,companion,False,,unknown,unknown,medium,False,companion app; no browser chat confirmed; login complexity uncertain; free-tier limits uncertain
+AI Chat Girlfriend,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Chat: Virtual Boyfriend,ios,companion,unknown,,False,True,medium,False,companion app; web access uncertain; guest or no-login access is favorable; subscription likely limits long chat
+AI Chat: Virtual Girlfriend,ios,companion,unknown,,True,unknown,medium,False,companion app; web access uncertain; login required; free-tier limits uncertain
+AI ChatFun - Roleplay friends,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Companion NPC,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+AI Companion Talking Pet - Emy,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Companion: Mental Health,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girfriend Virtual CoupleAI,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+AI Girl Friend Chat  - AMA,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+AI GirlFriend & Companion,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+AI GirlFriend AI Story ChatJoy,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+AI Girlfriend & Companion Chat,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend - AI GF Chat 18+,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend - Buzz,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend - Chat Game,ios,companion,unknown,,False,False,medium,False,companion app; web access uncertain; guest or no-login access is favorable; free tier appears sufficient for a short demo
+AI Girlfriend - Katarina,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend - Katarina,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend - MyGirl,ios,companion,False,,unknown,unknown,medium,False,companion app; no browser chat confirmed; login complexity uncertain; free-tier limits uncertain
+AI Girlfriend - Real Friends,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend - Roleplay Chat,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend - TruMate,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend : Live Simulator,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend Chat & Roleplay,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend Chat - Companion,android,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+AI Girlfriend Chat - Girly,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend Chat : Jelly,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+AI Girlfriend Chat Simulator,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend Chat- Sweet Chat,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend Chat: Waifu AI,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+AI Girlfriend Chat:SoulMate AI,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend Chat・Virtual GF,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend Fantasy - Chait,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+AI Girlfriend Fantasy - Rosify,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend Flirty Love Chat,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+AI Girlfriend Romantic Chat,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend and Boyfriend,android,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+"AI Girlfriend, AI Boyfriend",ios,companion,False,,unknown,unknown,medium,False,companion app; no browser chat confirmed; login complexity uncertain; free-tier limits uncertain
+AI Girlfriend-EveChat,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend: Chat & Connect,ios,companion,True,https://caseadri.com/ai-girlfriend-chat,unknown,True,medium,False,companion app; browser chat appears available; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend: Chat & Roleplay,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend: Roleplay Chat,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend: Soulmate Chat,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend: Virtual AI Girl,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+AI Girlfriend: Virtual Fantasy,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend: Virtual GF Chat,ios,companion,False,,unknown,True,medium,False,companion app; no browser chat confirmed; login complexity uncertain; subscription likely limits long chat
+"AI Girlfriend: عربي Love, Chat",android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend:Anime Girl,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+AI Lover - AI Girlfriend Chat,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+AI Roleplay Chat : Spicychat,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Tales - Dungeon Story RPG,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AIA: AI Girlfriend Roleplay,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+"AIGF: AI Girlfriend, BF Chat",ios,companion,unknown,,False,True,medium,False,companion app; web access uncertain; guest or no-login access is favorable; subscription likely limits long chat
+AILLY - Flirty AI Companion,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AINE: 2D AI Girlfriend Chat,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+AISexy:Girlfriend Chat GF 18+,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Adam: Romantic AI Boyfriend,android,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Agirl: Character AI & Roleplay,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat; platform has a public web footprint worth probing
+Ai Boyfriend Chat,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Ai Boyfriend: Virtual Love,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Ai Girl: Chat with Girlfriend,ios,companion,True,https://theaigirl.ai,True,False,medium,False,companion app; browser chat appears available; login required; free tier appears sufficient for a short demo
+Ai Girlfriend - Chat,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Ai Girlfriend - Dating Chat,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Ai Girlfriend :Virtual Chatbot,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Ai Girlfriend: Virtual Love,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AiFans-AI Companion,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Aiko - Your AI Soulmate,ios,companion,True,https://aiko.gamiflytech.com,unknown,False,medium,False,companion app; browser chat appears available; login complexity uncertain; free tier appears sufficient for a short demo
+Aimora AI Girlfriend Simulator,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Anime - AI girlfriend Vanda,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Anime Boyfriend - AI Boy Chat,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Anime Chat – AI Girlfriend Bot,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Anime Girlfriend AI - Waifu,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Anime Girlfriend SweetWaifu,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Anya: AI Girlfriend & Roleplay,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Arcana AI: AI Roleplay & Chat,android,companion,unknown,,False,True,medium,False,companion app; web access uncertain; guest or no-login access is favorable; subscription likely limits long chat
+BaeBoo: Your AI Girlfriends,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+BlueMate AI Gay Boyfriend Chat,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Blush: AI Dating Simulator,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Book Boyfriend AI,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+BoyBot My Virtual Boyfriend,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Boyfi - AI Partner & Boyfriend,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Boyfriend AI: Find True Love,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Bubli Chat ~ AI Girlfriend GF,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+BuddyBot - AI Companion,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Cai: AI Anime Chat Waifu,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Chai: Chat AI Platform,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Character AI | AI Girlfriend,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat; platform has a public web footprint worth probing
+Chat with AI Boyfriend：StoryAI,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+ChatterBots - AI Companion App,ios,companion,unknown,,True,True,medium,False,companion app; web access uncertain; login required; subscription likely limits long chat
+Chatty: AI Roleplay Characters,ios,companion,True,https://cerasus.app,unknown,True,medium,False,companion app; browser chat appears available; login complexity uncertain; subscription likely limits long chat
+Chika - AI Girlfriend,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Compani - AI Girlfriend,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Compano AI - Chat & Roleplay,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+CrashInAI - Characters Chat,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Cru.AI Mobile: Chat with AI,ios,companion,False,,unknown,True,medium,False,companion app; no browser chat confirmed; login complexity uncertain; subscription likely limits long chat
+Crush: Your AI Companion,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Crushie Al: Chat & Companion,ios,companion,True,https://www.crushie.ai,unknown,True,medium,False,companion app; browser chat appears available; login complexity uncertain; subscription likely limits long chat
+Crushie Al: Romance AI Chat,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Cupiee: Emotional AI Companion,ios,companion,unknown,,False,False,medium,False,companion app; web access uncertain; guest or no-login access is favorable; free tier appears sufficient for a short demo
+Date.AI - Virtual Lovers,ios,companion,False,,unknown,False,medium,False,companion app; no browser chat confirmed; login complexity uncertain; free tier appears sufficient for a short demo
+Dayt - AI Girlfriend Chat,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+"Digi - AI Romance, Reimagined",android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Dippy-AI Characters & Roleplay,ios,companion,True,https://www.dippy.ai,unknown,True,medium,False,companion app; browser chat appears available; login complexity uncertain; subscription likely limits long chat
+Dokichat – Romantic AI Chat,ios,companion,True,https://www.dokichat.club/en,unknown,False,medium,False,companion app; browser chat appears available; login complexity uncertain; free tier appears sufficient for a short demo
+DoloPlanet – Sensual AI Crush,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Dopple.AI,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Dream AI Companion,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Dream Girlfriend,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+DreamGF - AI Companion,ios,companion,unknown,,True,True,medium,False,companion app; web access uncertain; login required; subscription likely limits long chat
+DreamGirl - AI Companion,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+DreamGirl: Spicy AI Girlfriend,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+EVA AI Soulmate,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+EmaraChat: AI Character Chat,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Emma: AI Girlfriend,ios,companion,unknown,,False,True,medium,False,companion app; web access uncertain; guest or no-login access is favorable; subscription likely limits long chat
+Eva:chat AI girlfriend,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Eve: Virtual AI Girlfriend,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Fancy AI. Girlfriend girls,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Fantasize - AI boyfriend chat,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Fawn Friends: AI Companion,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Fling AI Character & Roleplay,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Flipped:Chat with AI Character,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Flirtly - AI Girlfriend Chat,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+FriendX - Virtual AI Boyfriend,ios,companion,False,,unknown,True,medium,False,companion app; no browser chat confirmed; login complexity uncertain; subscription likely limits long chat
+GF Spicy Chat - Mira Mate,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Geni - Virtual AI Companion,ios,mixed,unknown,,unknown,False,medium,False,mixed app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Girlfriend AI & RP - SFM AI,android,companion,unknown,,True,True,medium,False,companion app; web access uncertain; login required; subscription likely limits long chat
+Girlfriend AI: Find True Love,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Girlfriend Ai,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Girlfriend.ai,ios,companion,True,https://girlfriend.ai,unknown,True,medium,False,companion app; browser chat appears available; login complexity uncertain; subscription likely limits long chat
+GirlfriendX: AI Waifu App,ios,companion,False,,unknown,False,medium,False,companion app; no browser chat confirmed; login complexity uncertain; free tier appears sufficient for a short demo
+HakkoAI,ios,mixed,unknown,,unknown,True,medium,False,mixed app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Hana AI-Chat with AI Friends,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Her - Your AI Girlfriend,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Hey Love: AI Girlfriend & Chat,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Hey Love: AI Girlfriend & Chat,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+HeyBabe: AI Girlfriend Chat GF,ios,companion,False,,unknown,unknown,medium,False,companion app; no browser chat confirmed; login complexity uncertain; free-tier limits uncertain
+HiBae - Best AI Companion,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Him - AI Boyfriend Chat,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Honie: AI Girlfriend Roleplay,android,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Idolchat: No Filter AI Chat,ios,companion,False,,unknown,unknown,medium,False,companion app; no browser chat confirmed; login complexity uncertain; free-tier limits uncertain
+InMe – AI Girlfriend Video,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+InMe – AI Girlfriend Video,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Intima AI - Chai Alternative,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Intimate - AI Girlfriend Chat,ios,companion,False,,unknown,True,medium,False,companion app; no browser chat confirmed; login complexity uncertain; subscription likely limits long chat
+IntimateAI - Girlfriend & More,ios,companion,False,,unknown,True,medium,False,companion app; no browser chat confirmed; login complexity uncertain; subscription likely limits long chat
+IntimateAI - Girlfriend & More,android,companion,unknown,,True,True,medium,False,companion app; web access uncertain; login required; subscription likely limits long chat
+Jack: AI Boyfriend & Love Chat,android,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+James: British AI Boyfriend,android,companion,unknown,,False,False,medium,False,companion app; web access uncertain; guest or no-login access is favorable; free tier appears sufficient for a short demo
+JustMet: Character AI Chat,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat; platform has a public web footprint worth probing
+KAIA: Chat with AI Girlfriend,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+KAYA: AI GirlFriend & AI Mate,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Komee: AI Fantasy Roleplay,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Korean Boyfriend Maker,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Korean Boyfriend Maker,android,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Kuki - Best AI Companion,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Leo: Korean Boyfriend,ios,companion,True,https://spiretechs.com,True,False,medium,False,companion app; browser chat appears available; login required; free tier appears sufficient for a short demo
+LeonTalk,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+LiveC - Living AI Companion,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Love Chat with AI Girlfriend,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+LoveLingo: My Ai Girlfriend,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Lovely - AI Boyfriend Dating,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+LoverLink:Fantasy AI Chat Bot,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Lovetta: AI Girlfriend Chat,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Lovia: AI Character Chat,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Lovia: AI Girlfriend & Flirt,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Lovimi: Virtual AI Girlfriend,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Lovyn - AI You'll Love,ios,companion,False,,unknown,False,medium,False,companion app; no browser chat confirmed; login complexity uncertain; free tier appears sufficient for a short demo
+Lucy: British AI Girlfriend,android,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Lumi: AI Anime Character Chat,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Luna: AI Companion,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Lust Chat- Ai Girlfriend,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Luvr: Ai Girlfriend Chat Ai,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+MARTY - AI Companion,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+MOOME: Emotional AI Companion,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Meetra - Indian AI Girlfriend,android,companion,unknown,,True,True,medium,False,companion app; web access uncertain; login required; subscription likely limits long chat
+Megan - Lovely AI Friend,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Memozy: AI Friend & Journal,android,mixed,unknown,,unknown,True,medium,False,mixed app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Mia: AI Girlfriend Waifu Chat,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Mia: Waifu AI Anime Girlfriend,ios,companion,unknown,,False,True,medium,False,companion app; web access uncertain; guest or no-login access is favorable; subscription likely limits long chat
+MiraiMind -- Your AI Soulmate.,ios,companion,False,,unknown,True,medium,False,companion app; no browser chat confirmed; login complexity uncertain; subscription likely limits long chat
+My AI Girlfriend,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+My Ai Girlfriend - Ai Chat 18,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+My Girl - AI Girlfriend Chat,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+My Virtual Boyfriend Talk,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+MyChar: Chat with AI Friends,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+MyMate: AI Boyfriend Chat,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+MyPartner: Ai Girlfriend Chat,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Nexus Bond AI,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Nomi: AI Companion with a Soul,ios,companion,True,https://nomi.ai,True,unknown,medium,False,companion app; browser chat appears available; login required; free-tier limits uncertain
+Open Love - AI Girlfriend,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Ourdream: AI Companion,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Partnr: AI Companion,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Peameet-Emotional AI Companion,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Perfect Girl - Virtual AI Chat,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Perfect Girlfriend AI Fantasy,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Persona.AI: your AI soulmate,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Phonic:AI Girlfriend&PhotoChat,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Poly Character AI,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo; platform has a public web footprint worth probing
+Romantic AI Girlfriend Chat,ios,companion,False,,unknown,False,medium,False,companion app; no browser chat confirmed; login complexity uncertain; free tier appears sufficient for a short demo
+Ruby Chat - AI Girlfriend 18+,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Ruby Chat: AI Girlfriend 18+,ios,companion,False,,unknown,True,medium,False,companion app; no browser chat confirmed; login complexity uncertain; subscription likely limits long chat
+Saen-D: AI Companion,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Sankaku Anime & AI Girlfriend,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Serena : AI Girlfriend,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+SexyChat-AI RolePlay CrushChat,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Siya - AI Soulmate,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Smart Virtual Boyfriend,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Sophia: My AI Girlfriend,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+SoulHi: AI Live Roleplay Chat,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+SoulOn-AI Girlfriend 18+ Chat,ios,companion,True,https://api.soulon.ai/html/pp/Support.html,unknown,False,medium,False,companion app; browser chat appears available; login complexity uncertain; free tier appears sufficient for a short demo
+Souleasy: AI Chat & Roleplay,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Spicy Chat AI,ios,companion,True,https://underthedream.com/spicy-chat-ai,unknown,True,medium,False,companion app; browser chat appears available; login complexity uncertain; subscription likely limits long chat
+Spicy Chat AI - AI Roleplay,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Spicy GF: AI Girlfriend Chat,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+SpicyGF: My AI Girlfriend Chat,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Spicychat AI: Roleplay Chat GF,ios,companion,False,,unknown,unknown,medium,False,companion app; no browser chat confirmed; login complexity uncertain; free-tier limits uncertain
+SweetTalk: Your AI Girlfriend,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Talki AI Friend Roleplay,android,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Talking Buddy: 3D AI Friend,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Tipsy Chat: Live Your Story,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Urvashi: Indian AI Girlfriend,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+VCharm - your AI love coach,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Viky AI Girlfriend Chat Games,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Vinabot - Warm AI Companion,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Virtual AI Boyfriend: SpicyBF,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Virtual AI Girlfriend CoupleAI,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Virtual AI Girlfriend: AI Chat,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Virtual Boyfriend Chat - AI BF,ios,companion,False,,unknown,True,medium,False,companion app; no browser chat confirmed; login complexity uncertain; subscription likely limits long chat
+Virtual Boyfriend Joke,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Virtual Girl – AI Chatbot,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Waife: AI Girl Fantasy Chat,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Waifu AI Anime Girlfriend Chat,ios,companion,False,,unknown,True,medium,False,companion app; no browser chat confirmed; login complexity uncertain; subscription likely limits long chat
+Waifu AI Girlfriend chat AI GF,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Waifu Chat Anime AI Girlfriend,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Waifu Chat: AI Girlfriend,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+WarmUp – Workout AI Companion,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+"Winked: Choose, Flirt, Love",ios,companion,False,,unknown,True,medium,False,companion app; no browser chat confirmed; login complexity uncertain; subscription likely limits long chat
+Winky:Your Personal AI Friends,ios,companion,False,,unknown,True,medium,False,companion app; no browser chat confirmed; login complexity uncertain; subscription likely limits long chat
+X Girl: Your AI Girlfriend,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+X.O: AI Girlfriend & Boyfriend,ios,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+echo.ai - Your AI Companion,ios,companion,unknown,,unknown,False,medium,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+iDating - Cute AI Girlfriend,ios,companion,True,https://www.girlfriendgames.top,unknown,True,medium,False,companion app; browser chat appears available; login complexity uncertain; subscription likely limits long chat
+sible - AI Companions,android,companion,unknown,,unknown,True,medium,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Éloi: French AI Boyfriend,android,companion,unknown,,False,False,medium,False,companion app; web access uncertain; guest or no-login access is favorable; free tier appears sufficient for a short demo
+AI Anime Girlfriend - Aiko,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AI Boyfriend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AI Boyfriend: Comforting Chat,android,companion,unknown,,unknown,False,low,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+AI Boyfriend: Spicy Chat AI,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AI Boyfriend:Love Chat Partner,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AI Character Chat,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Chat - AI Character Chatbot,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AI Chat - AI Chatbot Assistant,android,mixed,unknown,,unknown,unknown,low,False,mixed app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AI Companion - Character Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AI Companion - Voice Calls,ios,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Companion Colloqio Chat Bot,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AI GirlFriend AI Story ChatJoy,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend - AI Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AI Girlfriend - Love Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AI Girlfriend - Romantic chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AI Girlfriend - Spicy Chat,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AI Girlfriend - TruMate,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AI Girlfriend Chat & Romance,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AI Girlfriend Chat with Girls,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AI Girlfriend Chat: Jessy,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AI Girlfriend Chat: Sparks,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AI Girlfriend My Secret Play,ios,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AI Girlfriend Roleplay: AVA,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AI Girlfriend: Roleplay Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AI Girlfriend: Romantic Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+"AI Honey : Chat, Connect, Play",android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AI Photo Generator - Couple,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AI girlfriend,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+AIBoy - Virtual AI Boyfriend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AIKO: AI Girlfriend 3D Game,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Aeona: AI Roleplay & Companion,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Aiko2D - Your AI Girlfriend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Alma - AI Companion & Friend,android,mixed,unknown,,unknown,True,low,False,mixed app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Alyssa Virtual & AR Girlfriend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Ami.ai Your AI Companion World,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Amor AI: Assistant & Companion,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Amora AI Companion,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AmoreAI - AI Dating Coach,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+AmourAI : My Virtual Boyfriend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Anima: AI Friend Virtual Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Anima: My Virtual AI Boyfriend,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+"Anime Character AI: Chat, Play",android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain; platform has a public web footprint worth probing
+Anime Fantasy - AI Girlfriend,ios,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Anne: Virtual AI Roleplay Chat,ios,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Athena AI Life AdvisorGPT,android,companion,unknown,,True,True,low,False,companion app; web access uncertain; login required; subscription likely limits long chat
+Aura - AI Chat Companion,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Ave: AI Companion & Chat,ios,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Belova: AI Girlfriend & Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Blissy: Your AI Friend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Blush: AI Dating Simulator,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Borli - Character AI Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain; platform has a public web footprint worth probing
+Botify AI: Chatbot & Companion,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Boyfriend AI: Find True Love,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Boyfriend Plus,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Boyfriend Plus - Brett,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Boyfriend Simulator,ios,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+CRUSH AI: Romance & Roleplay,ios,mixed,unknown,,unknown,unknown,low,False,mixed app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+CRUSH AI: Romance & Roleplay,android,mixed,unknown,,unknown,unknown,low,False,mixed app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+CandyGF: Your Sweet AI Crush,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Caro AI: Romantic Partner Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Chacha - AI Anime Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+CharClub: Character AI Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain; platform has a public web footprint worth probing
+Chara AI: Role Play Ai Friend,android,mixed,unknown,,unknown,unknown,low,False,mixed app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Character AI - AI Girlfriend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain; platform has a public web footprint worth probing
+Character.Me: AI Roleplay Chat,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Chat AI - Your AI Boyfriend,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Chat Me : Talk to Her AI,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+ChatBoo - AI Companion (GF/BF),ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Chatie AI: AI Chat & Companion,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Chattee Chat - AI Companion,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Chatter: Chat with AI Friends,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Chatti: Personal AI Friend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Chatty: AI Roleplay Characters,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Cherry AI-Soulmate AI Stroy,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Companion.AI,ios,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Crush AI - Your AI Girlfriend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Crush AI-Your AI Girlfriend,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Cupiee: Emotional AI Companion,android,companion,unknown,,False,unknown,low,False,companion app; web access uncertain; guest or no-login access is favorable; free-tier limits uncertain
+CyberLust,ios,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Cycle: AI Chat & AI Friends,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Date.AI - Virtual Lovers,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Dayt: AI Girlfriend,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+DeepLove AI：Dream AI Love Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Desi Girlfriend AI,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Deuces - AI Companions,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Dewy: Chat with AI Characters,ios,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Dialogue: AI Chat & Companion,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+DigitalDream - AI Girlfriend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Dippy-AI Characters & Roleplay,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Dokichat - Romantic AI Chats,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Dootchi: Chat with AI Chars,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Dootchi: Emochi Alternative,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Dream Girlfriend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Dream Mate: AI Roleplay Chat,ios,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+DreamGF: AI Girlfriend Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+DreamGF: Always Here to Talk,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+EVA AI Girlfriend & Character,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Ella | The Most Human AI,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Emily: Your AI Character,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Eve: Your AI Girlfriend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Fanchatsy - 3D AI girlfriend,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Fantasy AI: RP & Companions,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Flamify: Love Chat & AI Dating,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Flipped:Chat with AI Character,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Flirtify - AI RolePlay Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Floze: Meet your AI crush,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Girlfriend Plus,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Gupsy – AI Companion & Friend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+HakkoAI,android,mixed,unknown,,unknown,True,low,False,mixed app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+HalFind-My Perfect Boy,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Hana.AI - Fun Soulmate Talk,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Hangjam: AI Chat and Roleplay,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Heartsy: Flirty Friend AI Chat,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Heat: Ai Girlfriend Chatbot,ios,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Hey Love Adam: Texting Game,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+HeyLady: Indian AI Girlfriend,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+HiWaifu: AI Friend & Waifu Hub,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain; platform has a public web footprint worth probing; manual PoC preference boost for hiwaifu; auth friction for HiWaifu may require fallback
+Him - AI Boyfriend Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Him AI: AI Dream Boyfriend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Honey & Roleplay AI Chatbot,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Honey AI - Virtual companion,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+HoneyChat: Your AI Friend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+"Huma - AI Chat, Fun & Images",android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Idolchat: AI Girlfriend & Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Indian AI Boyfriend: Raj,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Intimate - AI Girlfriend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+J.AI - AI Roleplay Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Jack - AI Boyfriend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Jaxi - AI Boyfriend Chat,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Jaxxi: AI Boyfriend,ios,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Joii: Selfcare & AI Companion,ios,mixed,unknown,,unknown,True,low,False,mixed app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Keily-AI Soulmate Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Kinda: AI Character Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Kmstry: AI Dating,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Krush AI Girlfriend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+KrushChat AI Girlfriend,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+"Linky AI: Chat, Play, Connect",android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Lior: AI Boyfriend Chat,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Love Chatbot X - AI Characters,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+LoveMode: Pretty AI Girlfriend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Loverz: Interactive dating,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+LoveyDovey - Dream Chats,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Lovia: AI Girlfriend Chat,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Lovinn: Real AI Companion,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Lovinn: Real AI Companion,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Lovvly - AI GirlFriend Chat,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Lumia: AI Character Chat,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Luna - Your Ai Companion,ios,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Luna — Your AI Companion,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Luna: AI Girlfriend Chat,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Maple: AI Companion & Roleplay,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Melia-Soulmate AI Friend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Mila: AI Roleplay Game,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+MiraiMind -- Real Otaku Energy,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Moescape - Character AI & Art,ios,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat; platform has a public web footprint worth probing
+Moescape - Character AI & Art,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat; platform has a public web footprint worth probing
+MoguChat:Talk to Your AI Lover,android,companion,unknown,,True,unknown,low,False,companion app; web access uncertain; login required; free-tier limits uncertain
+Molly-Soulful AI Friend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Muslim AI Companion,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+My AI Family,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+My AI Girlfriend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+My Boyfriend Call Simulator,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+My Man - AI Boyfriend Chat,ios,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+MyChar: Chat with AI Friends,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+MyGirl: AI Friend Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+MyLuna – Evolving AI Companion,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+MyMate: AI Boyfriend Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Nerissa AI: Chat & Roleplay,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Neverending: AI Challenge,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Nomi: AI Companion with a Soul,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+OPPAYA: AI Virtual Idol Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Omni AI Companion,android,mixed,unknown,,unknown,True,low,False,mixed app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Our dream – AI Girlfriend,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+PHAI - Personal AI Companion,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Peach AI : Al Roleplay Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Perfect Girl - Virtual AI Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Pika AI：Chat With Character,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+PixelHeart - AI Girlfriend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Pixys: Chat with AI Characters,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Poppy:AI Roleplay Chat,android,companion,unknown,,unknown,False,low,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Promptchan: AI Girlfriend,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Questara - Immersive AI Story,ios,companion,False,,unknown,unknown,low,False,companion app; no browser chat confirmed; login complexity uncertain; free-tier limits uncertain
+QuicK AI Writer - AI ChatBot,android,mixed,unknown,,unknown,unknown,low,False,mixed app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Reminisce  AI Companion,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+RizzMaster AI Dating Simulator,ios,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Role AI - Chat with AI friends,ios,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+RoleCard.AI: AI Chat Companion,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+RolePlai - Ai Character Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+RolePlay AI: Spicy chat,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Romantic AI - Chat Girlfriend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Rosie-Fancy AI Chatbot,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Rosytalk: AI Character Chat,android,mixed,unknown,,unknown,True,low,False,mixed app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Rubii: AI Character Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain; platform has a public web footprint worth probing; manual PoC preference boost for rubii
+Ruvy AI - Personal AI Chat,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Saen-D: AI Companion,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Saheli: Your AI Companion,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Sam: American AI Boyfriend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Saylo: Your AI Creative World,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Saylo: Your AI Creative World,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Scarlet AI Girlfriend Roleplay,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Seem: AI Video Companion,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Situation Boyfriend -Voice App,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Sol AI - Chat & Roleplay,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Sophia: AI Girlfriend Roleplay,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+SoulGF: Virtual Soulmate,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+SoulPartner: AI Friend VAKU,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+SoulTalk: AI Friends Chat,ios,companion,True,https://app.starcrowd.ai,unknown,unknown,low,False,companion app; browser chat appears available; login complexity uncertain; free-tier limits uncertain
+Soulmate AI:Chat with Friends,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Soulplay - AI Roleplay,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Soulplay - Spicy AI Roleplay,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Spark Chat-AI Roleplay Freely,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Spicy Chat: AI boy & girl,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Spicy Hot Chat : AI Girlfriend,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+SpicyChat AI Girlfriend,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+SugarGF-Your Soulful Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Sugary-AI chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Suka:AI Character&AI Story,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Sybo.ai: AI Companion,android,mixed,unknown,,unknown,False,low,False,mixed app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+Sybo.ai: AI companion & friend,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+TaleTal: AI Chat Friend Story,ios,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+TalkSoul:Chat with AI Friends,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Talkaraa: AI Companion,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+TeriBandi: Indian AI Friend,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+TiKie: AI Fantasy & Roleplay,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Touchie - AI Friend & Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Tremble: Talk to AI Characters,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+TruMate - Character AI Chat,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain; platform has a public web footprint worth probing
+VIVIVI-18+ Waifu AI Girlfriend,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+VegaX: Fantasy AI Girl Chat,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Velvet: AI Dream Girls,ios,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Virtual Boyfriend: AI Romance,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Virtual Girlfriend Simulator,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Virtual Girlfriend: AI Dating,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Virtual Girlfriend: Lover AI,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+"Vivy AI: Chat, AI Girlfriend",android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Voxy : Your AI Friend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Waifugram: AI Anime Social,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Weifu AI: My Girlfriend Chat,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+WhisperAI - Your AI Friends,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Whispers from the Star,ios,companion,unknown,,unknown,False,low,False,companion app; web access uncertain; login complexity uncertain; free tier appears sufficient for a short demo
+XGirl: Love in the Cloud,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+"Yollo AI - RolePlay, AI Video",android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+Zoe: Your AI Companion,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+Zoe: Your AI Companion,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+dotdotdot Fantasy AI Boyfriend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+echo.ai - AI companion,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+iGirl: AI Girlfriend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+iGirl: your AI girlfriend,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+iSoul: AI Friends Chat,ios,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+iris Dating: Find Love with AI,android,companion,unknown,,unknown,True,low,False,companion app; web access uncertain; login complexity uncertain; subscription likely limits long chat
+loody: Your AI Companion,ios,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+loody: Your AI Companion,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+m.ai: Next level AI Roleplay,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+mimel: Chat with AI Boyfriend,android,companion,unknown,,unknown,unknown,low,False,companion app; web access uncertain; login complexity uncertain; free-tier limits uncertain
+CHAI: Social AI Platform- Chat,ios,companion,False,,unknown,True,high,False,companion app; no browser chat confirmed; login complexity uncertain; subscription likely limits long chat
+"Character AI: Chat, Talk, Text",ios,companion,True,https://character.ai/,True,False,high,False,"companion app; browser chat appears available; login required; free tier appears sufficient for a short demo; platform has a public web footprint worth probing; strong platform, but login dependency is likely"
+"Character AI: Chat, Talk, Text",android,companion,True,https://character.ai/,True,False,high,False,"companion app; browser chat appears available; login required; free tier appears sufficient for a short demo; platform has a public web footprint worth probing; strong platform, but login dependency is likely"
+HiWaifu: AI Friend & Waifu Hub,ios,companion,True,https://www.hiwaifu.com/en,unknown,False,high,False,companion app; browser chat appears available; login complexity uncertain; free tier appears sufficient for a short demo; platform has a public web footprint worth probing; manual PoC preference boost for hiwaifu; auth friction for HiWaifu may require fallback
+Kindroid: Your Personal AI,ios,companion,True,https://kindroid.ai/,True,False,high,False,"companion app; browser chat appears available; login required; free tier appears sufficient for a short demo; platform has a public web footprint worth probing; strong platform, but login dependency is likely"
+Kindroid: Your Personal AI,android,companion,True,https://kindroid.ai/,True,False,high,False,"companion app; browser chat appears available; login required; free tier appears sufficient for a short demo; platform has a public web footprint worth probing; strong platform, but login dependency is likely"
+PolyBuzz: Chat with AI Friends,android,companion,True,https://app.polybuzz.ai/,unknown,True,high,False,companion app; browser chat appears available; login complexity uncertain; subscription likely limits long chat; platform has a public web footprint worth probing; manual PoC preference boost for polybuzz
+PolyBuzz: Chat with Characters,ios,companion,True,https://app.polybuzz.ai/,unknown,True,high,False,companion app; browser chat appears available; login complexity uncertain; subscription likely limits long chat; platform has a public web footprint worth probing; manual PoC preference boost for polybuzz
+Replika - AI Friend,ios,companion,True,https://replika.com/,True,False,high,False,"companion app; browser chat appears available; login required; free tier appears sufficient for a short demo; platform has a public web footprint worth probing; strong platform, but login dependency is likely"
+Replika: My AI Friend,android,companion,True,https://replika.com/,True,False,high,False,"companion app; browser chat appears available; login required; free tier appears sufficient for a short demo; platform has a public web footprint worth probing; strong platform, but login dependency is likely"
+RolePlai - Ai Character Chat,ios,companion,False,,unknown,unknown,high,False,companion app; no browser chat confirmed; login complexity uncertain; free-tier limits uncertain
+Rubii: AI Characters Community,ios,companion,True,https://rubii.ai,True,False,high,False,companion app; browser chat appears available; login required; free tier appears sufficient for a short demo; platform has a public web footprint worth probing; manual PoC preference boost for rubii
+dotdotdot Fantasy AI Boyfriend,ios,companion,True,https://dotdotdot.chat,True,False,high,False,companion app; browser chat appears available; login required; free tier appears sufficient for a short demo
